@@ -1,0 +1,8 @@
+.notification-icon{
+    height: 30px;
+    width: 30px;
+}
+
+.notification-icon:hover{
+    color: red;
+}
